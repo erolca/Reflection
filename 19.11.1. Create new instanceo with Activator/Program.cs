@@ -23,7 +23,6 @@ class Class1
         Console.WriteLine("Test method called");
     }
 
-
     private string field;
 
     public string Property
@@ -31,7 +30,6 @@ class Class1
         get { return field; }
         set { field = value; }
     }
-
 }
 
 
